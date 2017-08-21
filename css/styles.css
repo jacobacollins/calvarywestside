@@ -4147,7 +4147,7 @@ body {
 .blog-item {
   position: relative;
   margin-bottom: 60px;
-  /* border: 1px solid #f5f5fa; */
+  border: 1px solid #f5f5fa;
   border-bottom: 0;
 }
 .blog-media {
